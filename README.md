@@ -69,3 +69,15 @@ Images du livre Le Sang de l'Amiral (Marjou)
 - [51-carte-chapitre-47.png](51-carte-chapitre-47.png) — Carte chapitre du chapitre 47
 - [52-carte-chapitre-48.png](52-carte-chapitre-48.png) — Carte chapitre du chapitre 48
 - [53-carte-chapitre-49.png](53-carte-chapitre-49.png) — Carte chapitre du chapitre 49
+
+
+## Droits d'auteur et Licences (Copyright)
+
+**Images issues de Wikimedia Commons**
+Les deux images suivantes proviennent de la médiathèque Wikimedia Commons. S'agissant de reproductions d'œuvres historiques, elles sont dans le domaine public :
+* [02-carte-de-toscanelli.jpg](https://commons.wikimedia.org/wiki/File:Atlantic_Ocean,_Toscanelli,_1474.jpg) (Carte de Toscanelli)
+* [03-carte-de-waldseemuller.jpg](https://commons.wikimedia.org/wiki/File:Waldseemuller_map_2.jpg) (Carte de Waldseemüller)
+
+**Images originales**
+À l'exception des deux cartes historiques mentionnées ci-dessous, l'ensemble des images présentes dans ce dépôt (*L’échiquier des Couronnes* et les 50 cartes de chapitres) a été créé par l'auteur pour le livre *Le Sang de l'Amiral*.
+© 2026 Xavier Marjou. Tous droits réservés.
